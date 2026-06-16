@@ -17,4 +17,4 @@ A simple **HTML + CSS** project showcasing a responsive sidebar with toggle func
 ## 🛠️ Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Nikitha9n/Sidebar-Project.git
+   git clone https://github.com/Nikitha9n/Sidebar_Project.git
