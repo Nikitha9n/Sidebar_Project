@@ -1,6 +1,6 @@
 # Sidebar Project
 
-A simple **HTML + CSS** project showcasing a responsive sidebar with toggle functionality.
+A simple **HTML + CSS** project showcasing a sidebar with toggle functionality.
 
 ## 🚀 Demo
 [Live Demo](https://sidebar-project.netlify.app)
@@ -10,7 +10,7 @@ A simple **HTML + CSS** project showcasing a responsive sidebar with toggle func
 
 ## 📂 Features
 - Pure HTML & CSS (no JavaScript)
-- Responsive sidebar layout
+- Sidebar toggle using checkbox
 - Font Awesome icons
 - Google Fonts integration
 
