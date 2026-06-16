@@ -6,7 +6,7 @@ A simple **HTML + CSS** project showcasing a sidebar with toggle functionality.
 [Live Demo]([https://sidebar-project.netlify.app](https://sidebarproject1.netlify.app/)
 
 ## 📸 Screenshot
-![Sidebar Screenshot](images/Screenshot 2026-06-16 112502.png)
+![Sidebar Screenshot](images/screenshot)
 
 ## 📂 Features
 - Pure HTML & CSS (no JavaScript)
